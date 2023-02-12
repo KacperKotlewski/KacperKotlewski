@@ -1,3 +1,9 @@
+<style>
+#icons img {
+  border-radius: 20%;
+  background-color: #8888
+}
+</style>
 <!--
 **KacperKotlewski/KacperKotlewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hi 👋! My name is Kacper and I'm a Fullstak, from Poland😁</h2>
+<h2 align="center">Hi 👋! My name is Kacper and I'm a Fullstack, from Poland😁</h2>
 
 ###
 
@@ -79,7 +85,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
+<div id="icons" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
